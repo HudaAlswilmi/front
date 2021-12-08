@@ -1,0 +1,35 @@
+.div1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50px;
+}
+p {
+  text-align: center;
+  font-style: italic;
+}
+.stordiv {
+  width: 29%;
+  margin-top: 10px;
+  border: black;
+  
+}
+.stordiv:hover {
+  transform: scale(1.1);
+}
+input {
+  height: 33%;
+  width: 33%;
+  padding: 10px;
+}
+button{
+    height: 15%;
+    width: 15%;
+    padding: 10px;
+}
